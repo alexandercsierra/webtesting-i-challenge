@@ -26,13 +26,13 @@ let rupee = {
 
 let majora = {
     name: 'Majora\'s Mask',
-    durability: 500,
+    durability: 100,
     enhancement: 17
 }
 
 let triforce = {
     name: 'The Triforce',
-    durability: 1000,
+    durability: 100,
     enhancement: 0
 }
 
